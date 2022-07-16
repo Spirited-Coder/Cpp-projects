@@ -35,7 +35,6 @@ int main(void){
 			
 		case 4:
 			cout<<"\n\t\t\t Thank You! \n";
-			exit(0);
 			break;
 			
 		default:
